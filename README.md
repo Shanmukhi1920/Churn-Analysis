@@ -4,9 +4,11 @@
 This Tableau project presents a comprehensive churn analysis for "Databel," a hypothetical telecommunications company. The analysis explores various factors influencing customer churn, including service attitudes, competitor offers, demographic trends, data plans, payment methods, and contract types. The findings are compiled into a series of visualizations and dashboards, culminating in a narrative that elucidates churn dynamics at Databel.
 
 ## Dataset Overview
-`data.csv`: contains 6,687 unique customers with data points related to reasons for churn, customer demographics, data plan details, payment methods, and contract types etc.
+`data.csv`: comprises data for 6,687 unique customers, encompassing various attributes such as churn reasons, demographic information, details of data plans, payment methods, and types of contracts.
 
-`Metadata.pdf` : contains the metadata related to customers.
+`Metadata.pdf` :  Provides detailed descriptions of customer-related data.
+
+`Churn Analysis.twbx` : This is a Tableau workbook containing a detailed analysis based on the provided dataset, focusing on identifying patterns and factors associated with customer churn.
 
 ## Key Insights
 1. **Overall Churn Rate**: 26.86%.
