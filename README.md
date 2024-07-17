@@ -1,4 +1,4 @@
-# Churn Analysis for Databel in Tableau
+
 
 ## Overview
 This project offers an in-depth churn analysis for "Databel," a fictional telecom company. It examines multiple factors affecting customer attrition, such as service quality, competitive landscape, demographics, data plan structures, payment options, and contract types. The analysis is presented through a series of interactive visualizations and dashboards, providing a comprehensive narrative of churn patterns within Databel. This data-driven approach aims to identify key drivers of customer loss, enabling targeted retention strategies. The insights derived from this analysis can guide decision-making in areas such as customer service improvement, product offerings, pricing strategies, and marketing efforts, ultimately helping Databel reduce churn rates and enhance customer loyalty in the competitive telecom industry.
